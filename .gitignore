@@ -48,3 +48,4 @@ chrome/*
 
 temp/*
 .vscode/settings.json
+.vitepress/dist/
